@@ -22,6 +22,7 @@ To build a predictive model that determines whether a bank customer will accept 
    - Confusion Matrix
    - Classification Report
   
-   - ##  Results:
+   - 
+- ##  Results:
 - Achieved ~94% accuracy using Logistic Regression.
 - Found Income, Education, and CCAvg to be strong predictors of loan acceptance.
